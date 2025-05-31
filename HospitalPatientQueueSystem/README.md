@@ -1,11 +1,11 @@
 Hospital Patient Queue System:
-------------------------------
+=
 
 A Data Structures & Algorithms semester project built in C++ to simulate a hospital patient queue using priority queues, hash tables, and sorting/searching algorithms.
 
 
 Objective:
-----------
+=
 
 To design and implement a hospital patient queue management system that:
 
@@ -16,7 +16,7 @@ To design and implement a hospital patient queue management system that:
 
 
 Features:
----------
+=
 
  1. Priority queue (Max-Heap) for urgent patients
  2. Hash table with linear probing for quick lookups
@@ -26,7 +26,7 @@ Features:
 
 
 Data Structures & Algorithms:
------------------------------
+=
 
 | Component      | Technique        					      |                     Purpose             |
 |----------------|------------------------------------------------------------|-----------------------------------------|
@@ -37,7 +37,7 @@ Data Structures & Algorithms:
 
 
 Sample Menu Operations:
------------------------
+=
 
 1. Add New Patient
 2. View/Serve Next Patient
@@ -47,7 +47,7 @@ Sample Menu Operations:
 
 
 Contributors – Group 7:
------------------------
+=
 
 | Name	            | Roll No           |
 |------------------|-------------------|
@@ -58,13 +58,13 @@ Contributors – Group 7:
 
 
 Project Report:
----------------
+=
 
 See docs/Group7_DSA_Project_Report.pdf for full documentation.
 
 
 Future Improvements:
---------------------
+=
  1. Time-complexity optimization for sorting large datasets.
  2. GUI for better user interaction
  3. Handle multiple doctors & departments
