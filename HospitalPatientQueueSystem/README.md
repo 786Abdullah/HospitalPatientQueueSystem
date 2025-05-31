@@ -7,10 +7,10 @@ Objective
 
 To design and implement a hospital patient queue management system that:
 
- Automatically assigns unique patient IDs
- Prioritizes patients based on severity
- Allows doctors to manage and serve patients efficiently
- Stores and sorts patient checkup history
+ 1. Automatically assigns unique patient IDs
+ 2. Prioritizes patients based on severity
+ 3. Allows doctors to manage and serve patients efficiently
+ 4. Stores and sorts patient checkup history
 
 
 Features
