@@ -41,3 +41,24 @@ Sample Menu Operations
 4. Sort Checked Patients
 5. View Doctor Info
 
+
+Contributors – Group 7
+
+| Name	            | Roll No           |
+|------------------|-------------------|
+| Armughan Naeem	  | 4822-FOC/BSSE/F23 |
+| Abdullah Shakeel	| 4793-FOC/BSSE/F23 |
+| Usama Javed	     | 4829-FOC/BSSE/F23 |
+| Syed Hussain Ali	| 4808-FOC/BSSE/F23 |
+
+
+Project Report
+
+See docs/Group7_DSA_Project_Report.pdf for full documentation.
+
+
+ Future Improvements
+
+ Time-complexity optimization for sorting large datasets.
+ GUI for better user interaction
+ Handle multiple doctors & departments
