@@ -2,7 +2,6 @@ Hospital Patient Queue System
 
 A Data Structures & Algorithms semester project built in C++ to simulate a hospital patient queue using priority queues, hash tables, and sorting/searching algorithms.
 
----------------------------------------------------------------------------
 
 Objective
 
