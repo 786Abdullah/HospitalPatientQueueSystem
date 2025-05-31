@@ -15,11 +15,11 @@ To design and implement a hospital patient queue management system that:
 
 Features
 
- Priority queue (Max-Heap) for urgent patients
- Hash table with linear probing for quick lookups
- Patient check-in, checkup, and tracking
- Sorting by age, name, or checkup time
- Search by name or patient ID
+ 1. Priority queue (Max-Heap) for urgent patients
+ 2. Hash table with linear probing for quick lookups
+ 3. Patient check-in, checkup, and tracking
+ 4. Sorting by age, name, or checkup time
+ 5. Search by name or patient ID
 
 
 Data Structures & Algorithms
