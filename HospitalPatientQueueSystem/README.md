@@ -59,6 +59,6 @@ See docs/Group7_DSA_Project_Report.pdf for full documentation.
 
  Future Improvements
 
- Time-complexity optimization for sorting large datasets.
- GUI for better user interaction
- Handle multiple doctors & departments
+ 1. Time-complexity optimization for sorting large datasets.
+ 2. GUI for better user interaction
+ 3. Handle multiple doctors & departments
